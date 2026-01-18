@@ -89,7 +89,7 @@ This SQL-based analysis provides clear insights into sales performance and custo
 ## 📸 SQL Output Samples
 The following screenshots show key SQL queries and their outputs used to analyze pizza sales performance.
 
-![Most Common Pizza Size Ordered](images/Common_Pizza_Size_Orderd.png)
+![Most Common Pizza Size Ordered](images/Common_Pizza_Size_Ordered.png)
 ![Pizza Quantity vs Pizza Category](images/Pizza_Quantity_vs_Pizza_Category.png)
 ![Pizza Types vs Quantity Ordered](images/Pizza_Types_vs_Quantity_Ordered.png)
 
