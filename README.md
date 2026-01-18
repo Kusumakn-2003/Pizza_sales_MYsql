@@ -86,6 +86,12 @@ The dataset consists of multiple relational tables containing:
 This SQL-based analysis provides clear insights into sales performance and customer preferences. The results can help businesses optimize their menu, pricing strategies, and operational planning to maximize profitability.
 
 ---
+## 📸 SQL Output Samples
+The following screenshots show key SQL queries and their outputs used to analyze pizza sales performance.
+
+![Top Selling Pizzas by Quantity](images/top_selling_pizzas.png)
+![Revenue by Pizza Category](images/revenue_by_category.png)
+![Total Revenue Query Output](images/total_revenue_output.png)
 
 ## 📎 Project Type
 
