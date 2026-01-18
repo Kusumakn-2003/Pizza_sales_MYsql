@@ -89,9 +89,10 @@ This SQL-based analysis provides clear insights into sales performance and custo
 ## 📸 SQL Output Samples
 The following screenshots show key SQL queries and their outputs used to analyze pizza sales performance.
 
-![Top Selling Pizzas by Quantity](images/top_selling_pizzas.png)
-![Revenue by Pizza Category](images/revenue_by_category.png)
-![Total Revenue Query Output](images/total_revenue_output.png)
+![Most Common Pizza Size Ordered](images/Common_Pizza_Size_Orderd.png)
+![Pizza Quantity vs Pizza Category](images/Pizza_Quantity_vs_Pizza_Category.png)
+![Pizza Types vs Quantity Ordered](images/Pizza_Types_vs_Quantity_Ordered.png)
+
 
 ## 📎 Project Type
 
